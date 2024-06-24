@@ -1,0 +1,21 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+
+    - search.suggest
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.footer
+  palette:
+    accent: light blue
+    primary: black
+nav:
+  - { "Home": "index.md" }
+  - { "About":"about.md" }
+#  - [about.md, About]
+plugins:
+  - search
