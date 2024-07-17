@@ -1,25 +1,11 @@
 ---
-comments: true
+date:
+  created: 2023-12-31
+  updated: 2024-01-02
+readtime: 15
 ---
 
-# Welcome to sumk.top
-
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-
-
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Welcome to  $\sum$ k | sumk.top 
+$OK$
+[贴吧](https://tieba.sumk.top)
+曹腾飞
