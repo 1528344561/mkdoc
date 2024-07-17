@@ -1,8 +1,11 @@
-site_name: My Docs
+site_name: ∑k | sumk
 theme:
   name: material
-  features:
+  custom_dir: overrides
+  favicon: images/favicon.png
+  logo: images/favicon.png
 
+  features:
     - search.suggest
     - navigation.tabs
     - navigation.expand
@@ -15,7 +18,34 @@ theme:
     primary: black
 nav:
   - { "Home": "index.md" }
+  - { "Socket":"socket_notes.md" }
+  - { "SE":"se.md" }
+  # - { "Math":"math/func.md"}
+  - "Math":
+    - "math/func.md"
+    - "math/prob.md"
+
+  - { "English":"english/main.md"}
   - { "About":"about.md" }
+  - { "Support": "support.md" }
+  - { "Other": "blogs/happy.md" }
 #  - [about.md, About]
 plugins:
   - search
+  - blog
+
+
+copyright: Copyright &copy; 2024  <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2024098969号-1</a> # 左下角的版权声明
+
+dev_addr: '127.0.0.1:58000'
+
+# 以下是latex格式支持
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  
+extra_javascript:
+  # - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
