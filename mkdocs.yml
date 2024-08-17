@@ -24,12 +24,20 @@ nav:
   - "Math":
     - "math/func.md"
     - "math/prob.md"
+    - "math/fault.md"
+    - "math/matrix.md"
+
   - "CS":
     - "CS/ds.md"
+    - "CS/co.md"
+    - "CS/数据结构复习.md"
   - { "English":"english/main.md"}
   - { "About":"about.md" }
   - { "Support": "support.md" }
   - { "Other": "blogs/happy.md" }
+  - "ms":
+    - "msdzls/install.md"
+    - "msdzls/feedback.md"
 #  - [about.md, About]
 plugins:
   - search

@@ -6,6 +6,3 @@ readtime: 15
 ---
 
 # Welcome to  $\sum$ k | sumk.top 
-$OK$
-[贴吧](https://tieba.sumk.top)
-曹腾飞

@@ -16,3 +16,7 @@ $$
 $$
 \int_{0}^{1}x \arcsin \sqrt{4x-4x^2} \mathrm{d} x 
 $$
+
+$$
+\int \frac1{1+\cos^2x} \mathrm{d} x 
+$$
