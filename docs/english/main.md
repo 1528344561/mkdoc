@@ -4,11 +4,11 @@
 
 ## 单词
 
-until
+as可以表示即使的意思,但是引导的句子需要倒装:即使他是一个孩子,他懂得很多.Kid as he is,he knows much.
 
 Until放在开头,翻译成 直到...之前.
 
-since prep(介词)/conj(连词) 
+since 两个词性,prep(介词)/conj(连词) 
 
 介词后加名词,连词后加句子
 
@@ -16,12 +16,18 @@ attach importance to / importance be attached to 重视
 
 approach to ...的方法,等于a way of.     approach 接近,靠近,方法
 
+While 既有当...时,也有尽管的意思
+
 ## 短语
 
 ### 介词短语
 
 - 介词短语不能当主语，所以如果你看到了介词短语在主语的位置，说明这句话是倒装句.
 > At issue is .... $\iff$    .... is at issue
+
+effect on
+
+impact on
 
 ## 代词
 
